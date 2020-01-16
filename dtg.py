@@ -38,8 +38,6 @@ holiday_list = [
     datetime(2020, 1, 26),
     datetime(2020, 1, 27),
     datetime(2020, 1, 28),
-    datetime(2020, 2, 25),
-    datetime(2020, 2, 26),
     datetime(2020, 2, 27),
     datetime(2020, 2, 28),
 ]
